@@ -1,0 +1,94 @@
+#tabela {
+    border-radius: 10px;
+    background-color: aqua;
+    border-style: solid;
+    border-width: 1px;
+    width: 200px;
+    height: 400px;
+
+}
+
+#div1 {
+    width: 1200px;
+    display: inline-block;
+
+}
+
+#head1 {
+    text-align: right;
+}
+
+#btn1 {
+    width: 50px;
+    height: 30px;
+}
+
+#btn2 {
+    width: 50px;
+    height: 30px;
+}
+
+#btn3 {
+    width: 50px;
+    height: 30px;
+}
+
+#btn4 {
+    width: 50px;
+    height: 30px;
+}
+
+#btn5 {
+    width: 50px;
+    height: 30px;
+}
+
+#btn6 {
+    width: 50px;
+    height: 30px;
+}
+
+#btn7 {
+    width: 50px;
+    height: 30px;
+}
+
+#btn8 {
+    width: 50px;
+    height: 30px;
+}
+
+#btn9 {
+    width: 50px;
+    height: 30px;
+}
+
+#btn0 {
+    width: 50px;
+    height: 30px;
+}
+
+#btnMinus {
+    width: 50px;
+    height: 30px;
+}
+
+#btnPlus {
+    width: 50px;
+    height: 30px;
+}
+
+#btnPuta {
+    width: 50px;
+    height: 30px;
+}
+
+#btnPodeljeno {
+    width: 50px;
+    height: 30px;
+}
+
+#btnJednako {
+    width: 50px;
+    height: 30px;
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<meta id="meta" name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+
+<head>
+    <link rel="stylesheet" href="csskal.css">
+    <title>Kalkulator</title>
+</head>
+<style>
+    td {
+        text-align: center;
+    }
+
+    body {
+        background-color: lightgreen;
+    }
+
+    @media only screen and (max-width: 600px) {
+        body {
+            background-color: lightblue;
+        }
+    }
+</style>
+
+<body>
+    <div id="div1">
+        <table id="tabela" border="1">
+            <tr>
+                <th id="head1" colspan="4">0</th>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+            </tr>
+            <tr>
+                <td><button id="btn7">7</button>
+                </td>
+                <td><button id="btn8">8</button>
+                </td>
+                <td><button id="btn9">9</button>
+                </td>
+                <td id="pl"><button id="btnPlus">+</button>
+                </td>
+            </tr>
+            <tr>
+                <td><button id="btn4">4</button>
+                </td>
+                <td><button id="btn5">5</button>
+                </td>
+                <td><button id="btn6">6</button>
+                </td>
+                <td id="mn"><button id="btnMinus">-</button>
+                </td>
+            </tr>
+            <tr>
+                <td><button id="btn1">1</button>
+                </td>
+                <td><button id="btn2">2</button>
+                </td>
+                <td><button id="btn3">3</button>
+                </td>
+                <td id="pt"><button id="btnPuta">*</button>
+
+                </td>
+            </tr>
+            <tr>
+                <td><button id="btn0">0</button>
+
+                </td>
+                <td></td>
+                <td></td>
+                <td id="pd"><button id="btnPodeljeno">/</button>
+
+                </td>
+                <td><button id="btnJednako">=</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+<script src="kalkulator.js"></script>
+
+</html>
